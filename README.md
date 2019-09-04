@@ -1,8 +1,5 @@
-# hello-world
-my first github repository
+# Python Training
 
-This is the first edit I have done within GitHub. 
+This repo will be used to hold all my Python Training files:
 
-I nearly wrote it straight to the master which wouldn't have been great
-
-Stephen Gemmell 27/04/2017
+04-09-19: Udemy - Complete Python Bootcamp
