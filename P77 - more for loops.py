@@ -1,3 +1,4 @@
+# Git Test by Stephen Gemmell
 # P77 - more for loops
 
 # Lists such as  rabbits are one of Python’s iterable objects, along with strings, tuples,
@@ -9,7 +10,7 @@ for letter in word:
     print(letter)
     
 # Iterating over a dictionary (or its  keys() function) returns the keys. In this example,
-# the keys are the types of cards in the board game Clue (Cluedo outside of North America):
+# the keys are the types of cards in the board game Clue (Cluedo in Europe):
 accusation = {'room': 'ballroom', 'weapon': 'lead pipe',
               'person': 'Col. Mustard'}
 for card in accusation: # or, for card in accusation.keys():
